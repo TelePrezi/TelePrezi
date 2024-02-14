@@ -1,0 +1,34 @@
+{
+	"name": "xrc-package-template",
+	"version": "0.1.0",
+	"displayName": "XRC Package Template",
+	"description": "This is a package template. Make sure to update this package with your information.",
+	"unity": "2022.3",
+	"unityRelease": "7f1",
+	"documentationUrl": "https://xrcollaboratory.github.io/xrc-package-template/",
+	"changelogUrl": "https://xrcollaboratory.github.io/xrc-package-template/changelog/CHANGELOG.html",
+	"licensesUrl": "https://xrcollaboratory.github.io/xrc-package-template/license/LICENSE.html",
+	"dependencies": {
+		
+	},
+	"keywords": [
+		"XRC",
+		"XR Collaboratory"
+	],
+	"author": {
+		"name": "XR Collaboratory"
+	},
+
+	"samples": [
+		{
+			"displayName": "Sample 1",
+			"description": "This is a sample. Make sure to update with your information.",
+			"path": "Samples~/SampleFolder1"
+		},
+		{
+			"displayName": "Sample 2",
+			"description": "This is a sample. Make sure to update with your information.",
+			"path": "Samples~/SampleFolder2"
+		}
+	]
+}
